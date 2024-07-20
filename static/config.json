@@ -1,0 +1,6 @@
+{
+    "urls": [
+        { "url": "http://127.0.0.1:8001/openapi.json", "name": "Microservice 1" },
+        { "url": "http://127.0.0.1:8002/openapi.json", "name": "Microservice 2" }
+    ]
+}
